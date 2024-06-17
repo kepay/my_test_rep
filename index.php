@@ -1,1 +1,1 @@
-echo 'HELP';
+echo 'HELP 1e ew';
